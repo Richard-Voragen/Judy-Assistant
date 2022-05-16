@@ -1,0 +1,40 @@
+[0101/144535:INFO:cefsimple_win.cc(446)] Update : No update found
+
+[0101/144535:INFO:cefsimple_win.cc(446)] Update : No update found
+
+[0101/144535:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0101/144535:INFO:cefsimple_win.cc(446)] Update : No update found
+
+[0101/144535:ERROR:registration_protocol_win.cc(53)] CreateFile: The system cannot find the path specified. (0x3)
+[0101/144939:INFO:cefsimple_win.cc(446)] Update : No update found
+
+[0101/144939:INFO:cefsimple_win.cc(446)] Update : No update found
+
+[0101/144939:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0101/144939:INFO:cefsimple_win.cc(446)] Update : No update found
+
+[0101/144939:ERROR:registration_protocol_win.cc(53)] CreateFile: The system cannot find the path specified. (0x3)
+[0108/132255:INFO:cefsimple_win.cc(446)] Update : No update found
+
+[0108/132255:INFO:cefsimple_win.cc(446)] Update : No update found
+
+[0108/132255:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0108/132255:INFO:cefsimple_win.cc(446)] Update : No update found
+
+[0108/132255:ERROR:registration_protocol_win.cc(53)] CreateFile: The system cannot find the path specified. (0x3)
+[0329/185549:INFO:browser_app_win.cc(265)] Update : No update found
+
+[2017-08-27 16:02:42.726:INFO:selfupdate_helper_win.cc(69)] Current user isNon-Admin
+
+[2017-08-27 16:02:42.730:INFO:selfupdate_helper_win.cc(146)] Self Update Task Started Event Handle= 000002FC
+
+[2017-08-27 16:02:42.731:INFO:selfupdate_helper_win.cc(279)] Triggering Application Event hEventLog = 00CA0004
+
+[2017-08-27 16:02:42.767:INFO:selfupdate_helper_win.cc(300)] RunSelfUpdateTask: foundTask = 1 succeded = 1
+
+[2017-08-27 16:02:42.767:INFO:selfupdate_helper_win.cc(72)] Launched Self update task
+
+[2017-08-27 16:10:08.263:INFO:selfupdate_helper_win.cc(46)] Update : No update found
+
+[2017-08-28 11:34:14.071:INFO:selfupdate_helper_win.cc(46)] Update : No update found
+

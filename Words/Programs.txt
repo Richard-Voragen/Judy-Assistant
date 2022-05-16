@@ -1,0 +1,13 @@
+C:\Users\Richard Voragen\Desktop\Judy\.passwords.exe
+C:\\Users\\Richard Voragen\\Desktop\\Judy\\.cal.exe
+C:\Users\Richard Voragen\Desktop\Judy\.notes.exe
+C:\Users\Richard Voragen\Desktop\Judy\.resizer.exe
+C:\Users\Richard Voragen\Desktop\Judy\.vocab.exe
+C:\\Users\\Richard Voragen\\Desktop\\Judy\\.con.exe
+C:\\Users\\Richard Voragen\\Desktop\\Judy\\.music.exe
+C:\Users\Richard Voragen\AppData\Roaming\Spotify\Spotify.exe
+C:\Program Files (x86)\BlueJ\BlueJ.exe
+C:\Program Files\Sublime Text 3\sublime_text.exe
+C:\Program Files (x86)\Steam\steam.exe
+D:\Unity\Editor\Unity.exe
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe

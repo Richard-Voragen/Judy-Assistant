@@ -1,0 +1,48 @@
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\bin\Debug\Face Recognition.exe
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\bin\Debug\Face Recognition.pdb
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\bin\Debug\Face Recognition.xml
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face_Recognition.Form1.resources
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face_Recognition.Resources.resources
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.GenerateResource.Cache
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face Recognition.exe
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face Recognition.xml
+C:\Users\nicol\AppData\Local\Temporary Projects\Face Recognition\obj\x86\Debug\Face Recognition.pdb
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.exe
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.xml
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.pdb
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.pdb
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.xml
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Form1.resources
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Resources.resources
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.GenerateResource.Cache
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbprojResolveAssemblyReference.cache
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.xml
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\nicol\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.Util.xml
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.pdb
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.xml
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.xml
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.Util.xml
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbprojResolveAssemblyReference.cache
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Form1.resources
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Resources.resources
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.GenerateResource.cache
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.exe
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.xml
+C:\Users\Richard Voragen\Desktop\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.pdb
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.exe
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.pdb
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Face Recognition.xml
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.xml
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\bin\Debug\Emgu.Util.xml
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbprojResolveAssemblyReference.cache
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Form1.resources
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face_Recognition.Resources.resources
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.vbproj.GenerateResource.cache
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.exe
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.xml
+C:\Users\Richard Voragen\Documents\Visual Studio 2015\Projects\Judy2.0\Judy2.0\bin\x64\Debug\Face Recognition Software\Face Recognition\Face Recognition\obj\x86\Debug\Face Recognition.pdb

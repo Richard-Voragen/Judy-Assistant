@@ -1,0 +1,13 @@
+.pass
+.cal
+.notes
+.resizer
+.vocab
+.con
+.music
+.spotify
+.blueJ
+.sublime
+.steam
+.unity
+.vs

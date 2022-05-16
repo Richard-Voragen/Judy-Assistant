@@ -1,0 +1,5 @@
+(all imputs starting with ".")...
+Also;
+.time (gives the time)
+.date (gives the date)
+.password (allows you to change the password)

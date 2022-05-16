@@ -1,0 +1,1401 @@
+[0126/193017.243:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/193034.360:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0126/193034.360:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0126/193039.422:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0126/193216.264:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/193323.506:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/193406.713:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/193611.350:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/195848.392:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/201143.760:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/201313.870:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/201531.830:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/201638.286:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/202126.779:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/202329.366:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/202406.720:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/202434.003:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/202455.320:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/202527.659:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/203001.124:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/203312.851:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/203828.798:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/204152.237:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/205200.088:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/205256.649:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/205433.371:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/205724.964:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/205819.498:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0126/205819.498:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0126/210434.621:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/210747.237:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/211218.021:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/211249.253:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/211739.032:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/212009.171:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/213653.909:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/213740.608:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/213847.801:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/214009.829:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/223226.333:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/223235.546:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/223240.398:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/223327.045:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/223418.562:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/223557.845:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/223639.389:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/223717.499:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/223755.648:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/223922.605:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/223945.006:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/224118.451:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/224212.980:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/224829.823:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/224909.626:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/224930.074:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/224950.366:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/225011.288:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/225041.248:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/225150.598:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/225200.787:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/225203.790:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/225206.323:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/225254.159:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/225310.920:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/225329.496:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/225345.067:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/225651.635:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/225708.721:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/225727.972:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/225739.487:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/225822.687:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/225847.946:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/225949.693:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230034.519:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230233.768:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230257.891:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230316.261:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230333.927:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/230402.932:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/230423.093:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230447.562:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/230527.816:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230554.766:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/230644.206:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230712.030:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/230716.291:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230734.241:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/230743.925:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230802.188:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/230816.243:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230836.700:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/230851.479:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/230907.190:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/231014.547:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/231039.666:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/231132.865:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/231234.135:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/231448.307:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/231510.090:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/231601.585:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/231626.843:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/231713.947:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/231740.886:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/231906.491:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/231950.916:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/232007.772:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/232046.883:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/232058.645:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/232118.418:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/232132.687:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/232247.395:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/232604.403:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/232621.511:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/232657.648:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/232730.793:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/232752.069:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/232840.346:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/232904.693:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/233046.340:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/233125.891:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/233201.824:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/233242.722:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/233254.545:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/233306.974:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/233356.454:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/233432.221:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0126/233452.383:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0126/233520.663:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/061125.680:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/061155.192:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/061203.167:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/061212.456:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/061308.562:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/061323.484:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/061338.567:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/061429.753:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/061443.252:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/061523.458:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/061538.074:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/061549.153:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/061602.681:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/061613.788:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/061717.994:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/061730.803:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062054.947:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/062104.219:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062200.153:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/062244.355:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/062259.061:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062309.436:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062318.868:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062341.804:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062441.669:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/062458.765:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062506.286:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062511.662:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062614.021:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/062718.885:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062726.749:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062736.469:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/062812.581:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/062828.245:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062837.277:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062845.477:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062854.012:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062901.477:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062912.163:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/062948.296:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/063007.913:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063023.119:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063125.457:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/063140.354:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063157.392:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/063213.868:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/063229.055:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063320.422:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063412.154:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/063528.145:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063543.560:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063549.735:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063559.231:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063607.209:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063611.441:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/063624.462:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063639.563:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063712.162:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063728.913:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063911.082:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063925.900:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/063951.309:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/064007.300:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064011.129:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064028.304:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064053.735:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064135.416:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/064151.903:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064310.377:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064332.595:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/064346.954:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064414.023:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/064425.725:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064441.526:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064543.649:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/064607.713:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064616.328:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064637.236:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064645.781:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064719.229:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/064925.529:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/064953.982:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/071009.587:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/071037.662:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/071050.671:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/072249.937:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/073254.579:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/073308.164:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/075127.907:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/075531.966:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/114151.854:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/114228.391:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/114243.525:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/114307.857:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/114513.882:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/114519.321:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/114519.321:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/114519.855:ERROR:render_process_host_impl.cc(2077)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+[0127/114543.238:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/114551.131:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/114558.771:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/114700.794:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/114846.565:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/115002.957:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/115013.821:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/115033.403:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/115038.691:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/115038.691:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/115440.335:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/115709.195:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/120218.186:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/120404.317:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/120544.670:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/120559.483:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/120828.171:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/121029.337:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/121224.318:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/122541.856:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/124359.894:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/124431.294:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/124523.862:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/124615.633:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/124812.056:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/124848.437:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/124904.595:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/124917.662:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/125023.763:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/131121.310:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/131806.392:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/131854.310:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/131945.259:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/132158.555:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/132215.116:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/132240.523:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/132329.242:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/132342.916:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/132356.445:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/132403.014:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/132410.717:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 15
+[0127/132421.057:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/132432.813:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/132437.279:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/132702.272:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/132724.791:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/132742.899:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/132801.793:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/132840.829:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/133042.900:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/133128.037:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/133205.150:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/133333.567:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/133344.638:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/133440.526:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/133445.737:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/133445.737:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/133606.810:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/133741.383:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/133823.508:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/133842.310:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/133857.413:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/134058.135:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/134111.336:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134121.103:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134133.276:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134139.130:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/134139.131:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/134145.703:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134153.464:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0127/134202.053:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134630.830:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/134713.430:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134724.730:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134801.664:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134807.681:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.681:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.682:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.683:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.686:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.686:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.686:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.686:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.686:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.687:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.691:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 1
+[0127/134807.700:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.700:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.704:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.704:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.705:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.705:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.705:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.706:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.706:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.706:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134807.706:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0127/134817.483:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134823.149:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/134823.149:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/134848.232:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134855.196:ERROR:render_process_host_impl.cc(2077)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+[0127/134901.541:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134917.117:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134929.082:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134942.524:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/134954.484:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135001.653:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/135013.035:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135023.117:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135028.378:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/135028.379:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/135034.784:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135042.052:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135052.266:ERROR:render_process_host_impl.cc(2077)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+[0127/135101.134:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135117.104:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135125.803:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135159.247:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/135213.888:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135222.022:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135227.395:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/135227.395:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/135236.620:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135244.358:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135300.890:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135509.132:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135514.529:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135522.959:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135554.529:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/135601.982:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/155859.699:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/155940.872:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/160002.539:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/160040.431:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0127/160059.443:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/160134.591:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/160146.089:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/160146.090:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0127/160156.168:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0127/160158.488:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0128/133225.607:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0128/133309.542:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0128/133328.297:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0128/133344.317:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0128/133348.951:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0128/133348.951:WARNING:quota_manager.cc(1833)] Create directory failed for path
+[0128/133357.980:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0128/133905.208:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0128/140510.239:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/131552.338:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/131820.734:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/132214.839:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/132316.339:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/132933.705:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/133105.984:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/133400.332:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/133537.863:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/133659.500:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/133905.336:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/133930.205:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/134011.420:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/134048.276:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/134114.252:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/134138.035:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/134524.067:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/134912.248:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/135033.309:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/135128.357:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/135432.741:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/135610.147:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/135647.333:INFO:user_input_monitor_win.cc(171)] RegisterRawInputDevices() failed for RIDEV_REMOVE: The parameter is incorrect. (0x57)
+[0219/140513.272:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/140719.054:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/140856.760:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/141114.770:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/141228.060:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/141238.283:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/141245.300:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/141318.301:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/141420.983:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/141521.282:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/141654.790:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/141816.378:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/141943.041:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/142038.300:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/142355.203:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/142416.898:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/142507.760:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/170438.107:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/170527.360:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/170609.600:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/171620.082:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/171834.724:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/172049.983:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/172049.983:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/172050.117:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/172050.117:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/172101.400:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/172120.305:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/172120.305:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/172120.329:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/172120.329:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/172528.698:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/172558.386:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/172558.386:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/172558.416:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/172558.416:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/172637.216:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/172653.240:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/172653.241:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/172653.270:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/172653.270:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/172750.257:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/172808.075:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/172808.075:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/172808.098:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/172808.098:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/172849.425:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/173002.982:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/173033.702:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/173033.703:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/173033.727:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/173033.727:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/173103.568:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/173119.246:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/173119.247:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/173119.271:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/173119.271:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/173226.382:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/174416.263:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/174446.104:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/174446.104:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/174446.161:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/174446.161:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/174446.244:INFO:CONSOLE(1123)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflrnseTy/desktop_polymer.js (1123)
+[0219/174450.976:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/174450.976:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/174451.052:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/174451.052:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/174451.102:INFO:CONSOLE(1123)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflrnseTy/desktop_polymer.js (1123)
+[0219/175632.854:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/175732.132:INFO:CONSOLE(10)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=ntrQJ64jfxs (10)
+[0219/175732.132:INFO:CONSOLE(11)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=ntrQJ64jfxs (11)
+[0219/175732.132:INFO:CONSOLE(14)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=ntrQJ64jfxs (14)
+[0219/175732.540:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/175732.540:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/175732.543:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/175732.543:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/175733.911:INFO:CONSOLE(1123)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflrnseTy/desktop_polymer.js (1123)
+[0219/175920.477:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/175935.969:INFO:CONSOLE(10)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=ntrQJ64jfxs (10)
+[0219/175935.970:INFO:CONSOLE(11)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=ntrQJ64jfxs (11)
+[0219/175935.970:INFO:CONSOLE(14)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=ntrQJ64jfxs (14)
+[0219/175936.393:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/175936.393:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/175936.455:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/175936.455:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/175937.400:INFO:CONSOLE(1123)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vflrnseTy/desktop_polymer.js (1123)
+[0219/180304.220:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0219/180331.065:INFO:CONSOLE(10)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=ntrQJ64jfxs (10)
+[0219/180331.066:INFO:CONSOLE(11)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=ntrQJ64jfxs (11)
+[0219/180331.066:INFO:CONSOLE(14)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=ntrQJ64jfxs (14)
+[0219/180331.501:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0219/180331.501:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0219/180331.565:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0219/180331.565:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0219/180333.596:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0219/180335.752:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0219/180345.334:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0219/180346.963:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0221/162831.345:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/162929.916:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/163155.404:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/164149.100:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/164226.566:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/164250.074:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/164526.331:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/165727.509:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/165954.267:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/170023.566:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/170154.639:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/170416.600:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/170453.795:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/170724.640:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/170940.038:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/171016.320:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/171103.188:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/171134.790:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/171814.698:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/171903.986:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/173423.571:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/173645.342:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/174139.510:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/175721.040:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/175916.816:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/180055.058:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 11
+[0221/180055.066:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 9
+[0221/180055.410:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 3
+[0221/180055.411:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 1
+[0221/180058.549:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0221/180058.549:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0221/180058.706:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0221/180058.706:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0221/180107.813:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/180332.420:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0221/180332.420:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0221/180332.445:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0221/180332.445:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0221/180427.090:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 5
+[0221/180427.246:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0221/180427.246:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0221/180427.273:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0221/180427.273:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0221/180441.252:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 61
+[0221/180441.254:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 59
+[0221/180441.254:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 55
+[0221/180441.257:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 63
+[0221/180441.289:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 57
+[0221/180441.524:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 5
+[0221/180450.051:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0221/180450.051:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0221/180450.077:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0221/180450.077:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0221/180536.080:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0221/180536.080:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0221/180536.100:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0221/180536.101:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0221/180640.566:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0221/180906.360:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0221/180906.360:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0221/180906.382:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0221/180906.382:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0221/180912.424:INFO:CONSOLE(10)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=3n3EoVnPW14 (10)
+[0221/180912.424:INFO:CONSOLE(11)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=3n3EoVnPW14 (11)
+[0221/180912.424:INFO:CONSOLE(14)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=3n3EoVnPW14 (14)
+[0221/180912.530:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0221/180912.530:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0221/180912.532:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0221/180912.532:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0221/180920.351:INFO:CONSOLE(22)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=mvJjmWTg7Qo (22)
+[0221/180920.351:INFO:CONSOLE(23)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=mvJjmWTg7Qo (23)
+[0221/180920.351:INFO:CONSOLE(26)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=mvJjmWTg7Qo (26)
+[0221/180920.523:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 27
+[0221/180920.523:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 35
+[0221/180920.523:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 33
+[0221/180920.523:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 31
+[0221/180920.523:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 25
+[0221/180920.523:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 23
+[0221/180920.523:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 21
+[0221/180920.523:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 19
+[0221/180920.523:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 37
+[0221/180920.674:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0221/180920.674:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0221/180920.686:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0221/180920.686:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0221/181113.607:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0221/181214.673:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0221/181222.454:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0221/181222.482:ERROR:ssl_client_socket_impl.cc(1136)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0221/181247.059:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0221/181247.059:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0221/181247.080:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0221/181247.080:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0221/181605.524:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/181946.923:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0221/182643.661:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0303/131940.232:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0311/121925.556:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0328/180351.602:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0404/190518.251:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0404/190815.221:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0404/191306.157:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0404/202549.603:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0405/111323.790:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0405/111619.081:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0405/112351.792:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0412/184912.287:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0412/185049.258:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0412/185553.604:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0414/173312.333:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0424/212514.846:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0424/212552.029:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0424/212707.922:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0424/212841.270:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0625/180448.635:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0913/183322.149:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0913/183557.940:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0913/183653.146:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0913/183938.396:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0914/170937.729:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0914/171715.714:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0914/171949.572:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0914/172003.375:INFO:CONSOLE(20)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=NrI-UBIB8Jk (20)
+[0914/172003.375:INFO:CONSOLE(21)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=NrI-UBIB8Jk (21)
+[0914/172003.375:INFO:CONSOLE(24)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=NrI-UBIB8Jk (24)
+[0914/172003.588:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26feature%3Dpassive%26hl%3Den%26next%3D%252Fsignin_passive&uilel=3&hl=en&service=youtube' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/watch?v=NrI-UBIB8Jk (0)
+[0914/172004.874:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0914/172004.874:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0914/172004.876:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0914/172004.876:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0914/172015.926:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0914/172105.115:INFO:CONSOLE(20)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=IPXIgEAGe4U (20)
+[0914/172105.115:INFO:CONSOLE(21)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=IPXIgEAGe4U (21)
+[0914/172105.115:INFO:CONSOLE(24)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=IPXIgEAGe4U (24)
+[0914/172105.457:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0914/172105.457:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0914/172105.466:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0914/172105.466:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0914/172150.533:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0914/172153.606:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0914/172158.782:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0914/172202.313:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0206/190402.567:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/190556.123:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/190644.011:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/190842.449:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/190944.437:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/191113.161:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/191352.892:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/191447.240:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/192001.331:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/192459.152:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/194222.939:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/194328.921:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/194421.339:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/200021.944:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/200107.751:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/200332.642:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/200756.015:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/200918.909:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/201036.658:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/201220.455:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/201249.150:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/201516.635:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/201538.376:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/201710.224:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/202427.751:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/202633.526:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/202748.056:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/202827.554:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/202911.849:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/203134.412:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/203200.188:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0206/205940.230:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/134716.750:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/142449.678:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/142506.512:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/142639.358:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/142836.823:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/142919.066:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/143017.903:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/143157.530:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/143313.781:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/143518.889:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/143830.336:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/143909.896:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (1)
+[0718/143910.199:INFO:CONSOLE(42)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (42)
+[0718/143910.199:INFO:CONSOLE(43)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (43)
+[0718/143910.199:INFO:CONSOLE(46)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (46)
+[0718/143910.398:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/143910.398:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/143910.409:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/143910.409:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/143910.718:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26action_handle_signin%3Dtrue%26hl%3Den%26next%3D%252Fsignin_passive%26feature%3Dpassive&passive=true&hl=en&uilel=3&service=youtube' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (0)
+[0718/143911.703:INFO:CONSOLE(18)] "%c[%s::%s]:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl0t4R23/desktop_polymer.js (18)
+[0718/144023.476:INFO:CONSOLE(0)] "Refused to load the script 'https://www.gstatic.com/recaptcha/api2/v1562567553145/recaptcha__en.js' because it violates the following Content Security Policy directive: "script-src 'nonce-AjWCbxlKShvqYGGmeZqpFw' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval'". 'strict-dynamic' is present, so host-based whitelisting is disabled.
+", source: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbTo0NDM.&hl=en&v=v1562567553145&size=normal&s=MuVfwMasblEpPRyxWNDaTtFVx0V7vnVpoYSexdXRpAJmoIXAay6Xe15bQVZf3KN1mWZxaH5tFWfmFyF8bE_DRyJvXJeSHdwqpdRhIl7_yVKv7Ym4XwicW8Lcoh-bESsL7mOI6wcdvRBiq-63Vc9SEGt9vn2UFiA0NIHNAiW170SvlgTdyE29MWM7SXSQEFRTBpDzYQCCddvaEwMNCqrfOQRaYDh1vWP7bP0r4tiKDaoYqDQRAsc9LdQ&cb=towuwsofcqlo (0)
+[0718/144023.486:INFO:CONSOLE(1)] "Uncaught [object DOMException]", source: https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=v1562567553145 (1)
+[0718/144203.739:INFO:CONSOLE(0)] "Refused to load the script 'https://www.gstatic.com/recaptcha/api2/v1562567553145/recaptcha__en.js' because it violates the following Content Security Policy directive: "script-src 'nonce-IbKSCn23ze87DIfiMRG1Fw' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval'". 'strict-dynamic' is present, so host-based whitelisting is disabled.
+", source: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfwuyUTAAAAAOAmoS0fdqijC2PbbdH4kjq62Y1b&co=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbTo0NDM.&hl=en&v=v1562567553145&size=normal&s=ENCJMFk0aPW6lUPzwpdyDHCuQiotNFC0xcQMA_4p6RzxdRXI5sMr5U7hU3gmP8PkWVKnYqJ2W-oky-jrOuz8VLJfSCN06EavQcnfP3R7pxckhctgC5sdK73Tp293Tp1ZiyJ8zdLfJSu-91wcI6NTs1N66qtYsxrPZaHnbEbna4lqXsNG3dv4N9SOHeYq3snRUewcftsIjnXqMGqbGbkhiWZQLs0rPSahW2tGcB0X6V8a4PRd6ntu8EU&cb=xsddw7anw7gw (0)
+[0718/144203.764:INFO:CONSOLE(1)] "Uncaught [object DOMException]", source: https://www.google.com/recaptcha/api2/webworker.js?hl=en&v=v1562567553145 (1)
+[0718/144257.765:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (1)
+[0718/144257.951:INFO:CONSOLE(42)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (42)
+[0718/144257.951:INFO:CONSOLE(43)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (43)
+[0718/144257.951:INFO:CONSOLE(46)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (46)
+[0718/144258.180:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/144258.180:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/144258.195:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/144258.195:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/144259.662:INFO:CONSOLE(18)] "%c[%s::%s]:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl0t4R23/desktop_polymer.js (18)
+[0718/144329.501:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=shxbP1y_qAs (1)
+[0718/144329.637:INFO:CONSOLE(42)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=shxbP1y_qAs (42)
+[0718/144329.637:INFO:CONSOLE(43)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=shxbP1y_qAs (43)
+[0718/144329.637:INFO:CONSOLE(46)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=shxbP1y_qAs (46)
+[0718/144329.989:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/144329.989:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/144329.993:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/144329.993:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/144351.716:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=V1Pl8CzNzCw (1)
+[0718/144351.906:INFO:CONSOLE(42)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=V1Pl8CzNzCw (42)
+[0718/144351.907:INFO:CONSOLE(43)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=V1Pl8CzNzCw (43)
+[0718/144351.907:INFO:CONSOLE(46)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=V1Pl8CzNzCw (46)
+[0718/144352.043:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/144352.043:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/144352.065:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/144352.065:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/144411.617:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=dANKqxonWsk (1)
+[0718/144411.803:INFO:CONSOLE(42)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=dANKqxonWsk (42)
+[0718/144411.803:INFO:CONSOLE(43)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=dANKqxonWsk (43)
+[0718/144411.803:INFO:CONSOLE(46)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=dANKqxonWsk (46)
+[0718/144411.925:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/144411.925:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/144411.939:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/144411.939:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/144855.017:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/144922.983:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=dANKqxonWsk (1)
+[0718/144923.115:INFO:CONSOLE(42)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=dANKqxonWsk (42)
+[0718/144923.115:INFO:CONSOLE(43)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=dANKqxonWsk (43)
+[0718/144923.115:INFO:CONSOLE(46)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=dANKqxonWsk (46)
+[0718/144923.267:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/144923.267:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/144923.272:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/144923.272:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/144930.982:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0718/145641.486:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/145812.817:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/145849.655:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/145903.570:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (1)
+[0718/145903.709:INFO:CONSOLE(42)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (42)
+[0718/145903.710:INFO:CONSOLE(43)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (43)
+[0718/145903.710:INFO:CONSOLE(46)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (46)
+[0718/145903.855:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/145903.855:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/145903.858:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/145903.858:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/145905.055:INFO:CONSOLE(18)] "%c[%s::%s]:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl0t4R23/desktop_polymer.js (18)
+[0718/145943.143:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=rNCDpTd_j3Y (1)
+[0718/145943.318:INFO:CONSOLE(42)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=rNCDpTd_j3Y (42)
+[0718/145943.318:INFO:CONSOLE(43)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=rNCDpTd_j3Y (43)
+[0718/145943.319:INFO:CONSOLE(46)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=rNCDpTd_j3Y (46)
+[0718/145943.575:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/145943.575:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/145943.595:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/145943.596:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/150035.120:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (1)
+[0718/150035.272:INFO:CONSOLE(42)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (42)
+[0718/150035.272:INFO:CONSOLE(43)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (43)
+[0718/150035.272:INFO:CONSOLE(46)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (46)
+[0718/150035.508:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/150035.509:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/150035.515:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/150035.515:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/150036.025:INFO:CONSOLE(2051)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl0t4R23/desktop_polymer.js (2051)
+[0718/150036.322:INFO:CONSOLE(18)] "%c[%s::%s]:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl0t4R23/desktop_polymer.js (18)
+[0718/150129.687:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/150148.612:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/150202.994:INFO:CONSOLE(15)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (15)
+[0718/150203.119:INFO:CONSOLE(56)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (56)
+[0718/150203.119:INFO:CONSOLE(57)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (57)
+[0718/150203.120:INFO:CONSOLE(60)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (60)
+[0718/150203.262:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/150203.263:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/150203.275:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/150203.275:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/150204.570:INFO:CONSOLE(18)] "%c[%s::%s]:", source: https://www.youtube.com/yts/jsbin/desktop_polymer-vfl0t4R23/desktop_polymer.js (18)
+[0718/150210.342:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0718/150323.811:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/150359.396:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0718/150440.928:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=09R8_2nJtjg (1)
+[0718/150441.059:INFO:CONSOLE(42)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=09R8_2nJtjg (42)
+[0718/150441.059:INFO:CONSOLE(43)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=09R8_2nJtjg (43)
+[0718/150441.059:INFO:CONSOLE(46)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=09R8_2nJtjg (46)
+[0718/150441.272:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/150441.272:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/150441.282:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/150441.282:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/150448.332:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0718/150600.651:INFO:CONSOLE(1)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=NrI-UBIB8Jk (1)
+[0718/150600.795:INFO:CONSOLE(42)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=NrI-UBIB8Jk (42)
+[0718/150600.795:INFO:CONSOLE(43)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=NrI-UBIB8Jk (43)
+[0718/150600.795:INFO:CONSOLE(46)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=NrI-UBIB8Jk (46)
+[0718/150600.935:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0718/150600.935:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0718/150600.948:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0718/150600.948:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0718/150946.926:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 157
+[0718/150946.927:WARNING:spdy_session.cc(2276)] Received HEADERS for invalid stream 159
+[0910/105937.347:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/140129.783:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/140639.006:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/140935.049:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/142131.833:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/142215.314:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/142558.524:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/151550.132:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/151807.633:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/154541.021:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/154641.252:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/154944.785:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/155032.931:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/155045.352:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/155105.815:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/164749.995:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/165604.727:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/165757.442:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/165937.543:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/170400.765:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/170455.872:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/191343.006:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/191603.851:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/191648.929:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/192056.115:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/192315.372:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/192351.105:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/192707.606:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/192759.003:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/192912.296:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/193235.941:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/193635.340:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/193706.352:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/194028.062:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/194320.862:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/194449.503:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/194558.295:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/194810.137:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/194934.010:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/195055.674:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/201841.047:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/202120.899:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/202209.428:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/202331.245:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/202347.706:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/203015.025:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/203155.583:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/203608.488:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/204240.839:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/204342.928:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/204420.599:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/204758.922:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/205521.809:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/210109.885:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/210246.819:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/210403.904:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/211032.509:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/211322.729:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/211904.876:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/212030.931:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/212438.373:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/212709.656:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/212939.354:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/213516.308:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/213851.574:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/214305.259:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/215156.783:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/215640.028:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/215723.186:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/220015.324:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/220040.601:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/224119.065:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/224405.587:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/224655.548:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/224932.258:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/225326.422:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/225451.756:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/225755.498:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/225821.872:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/225856.030:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/230010.192:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/230141.382:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/230229.237:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/230755.891:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/231223.009:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/231524.468:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/234713.316:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/235424.908:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/235612.264:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/235628.716:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/235736.398:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0505/235812.224:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/000107.200:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/000335.910:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/001446.455:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/001601.022:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/001857.468:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/002736.195:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/002802.657:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/123404.038:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/132707.206:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/132943.509:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/133621.751:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/133651.081:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/133744.946:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/133810.218:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/133856.419:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/133943.151:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/134349.210:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/140402.475:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/140622.951:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/142058.106:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/142306.392:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/142331.749:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/142521.843:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/142559.995:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/142852.088:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/142922.414:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/143014.626:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/143101.367:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/143210.415:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/143323.191:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/143642.646:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/143734.464:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/143919.650:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/144149.080:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/145109.337:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/145159.653:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/145339.564:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/145415.471:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/145453.479:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/145619.203:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/145722.062:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/145748.740:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/145830.774:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/145919.153:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/154005.274:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/154209.254:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/155602.852:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/163831.732:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/165227.336:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/165437.233:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/165749.713:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/170225.956:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/173348.916:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/173628.569:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/173930.117:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/174946.331:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/175110.022:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/175335.675:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/175516.252:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/175940.948:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/180028.918:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/180627.412:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/180710.900:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/180908.502:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/181739.648:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/181750.186:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/182547.104:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/182655.617:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/183238.285:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/183942.136:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/184104.675:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/185825.435:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/190053.222:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/190226.608:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/190618.352:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/194832.114:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/195458.359:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/202134.501:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/202241.290:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/202408.054:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/202539.737:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/202826.367:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/202921.105:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/203241.808:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/203751.195:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0506/204020.789:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/102242.125:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/114052.867:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/134743.012:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/185528.191:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/213044.623:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213045.042:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/213049.627:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213054.633:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213059.635:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213104.639:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213109.644:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213114.646:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213119.651:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213124.655:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213129.659:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213134.663:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213139.667:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213144.672:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213149.676:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213154.680:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213159.692:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213204.706:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213209.722:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213214.730:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213219.740:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213224.743:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213229.753:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213234.756:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213239.760:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213244.764:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213249.768:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213254.773:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213259.779:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213304.794:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213309.809:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213314.815:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213319.823:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213324.830:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213329.845:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213334.849:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213339.863:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213344.880:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213349.894:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213354.902:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213359.918:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213404.930:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213409.933:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213414.950:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213419.952:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213424.956:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213429.959:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213434.963:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213439.969:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213444.973:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213449.989:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213454.992:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213459.999:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213505.014:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213510.021:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213515.036:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213520.052:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213525.059:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213530.064:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213535.078:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213540.092:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213545.109:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213550.122:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213555.137:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213600.146:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213605.162:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213610.177:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213615.181:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213620.185:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/213825.190:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+                                                                                                                                                                                                          [0507/215240.421:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215240.754:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/215245.425:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215250.428:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215255.431:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215300.435:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215305.438:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215310.442:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215315.446:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215320.448:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215325.452:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215330.457:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215335.460:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215340.462:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215345.472:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215350.481:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215355.495:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215400.507:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215405.512:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215410.522:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215415.527:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215420.541:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215425.554:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215430.569:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215435.577:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215440.591:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215445.604:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215450.613:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215455.621:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215500.625:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215505.637:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215510.641:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215515.646:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215520.649:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215525.653:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215530.666:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215535.679:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215540.687:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215545.701:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215550.709:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215555.723:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215600.732:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215605.747:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215610.761:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215615.775:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215620.789:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215625.803:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215630.817:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215635.831:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215640.843:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215645.856:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215650.871:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215655.885:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215700.897:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215705.911:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215710.924:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215715.937:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215720.951:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215725.958:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215730.964:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215735.971:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215740.984:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215745.997:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215751.011:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215756.024:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215801.038:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215806.046:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215811.059:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215816.072:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215821.087:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215826.097:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215831.111:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215836.125:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215841.137:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215846.152:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215851.159:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215856.174:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215901.184:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215906.197:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215911.210:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215916.213:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215921.230:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215926.243:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215931.257:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215936.264:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215941.267:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215946.271:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215951.274:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/215956.277:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220001.291:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220006.308:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220011.310:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220016.314:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220021.328:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220026.342:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220031.352:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220036.365:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220041.377:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220046.386:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220051.399:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220056.414:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220101.419:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220106.426:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220111.432:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220116.437:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220121.442:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220126.445:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220131.459:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220136.464:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220141.467:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220146.470:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220151.473:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220156.486:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220201.491:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220206.494:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220211.501:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220216.505:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220221.510:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220226.514:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220231.518:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220236.521:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220241.536:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220246.539:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/220251.551:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/221026.371:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/221026.691:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/221031.375:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0507/223354.392:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/225709.800:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/231149.391:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/231827.374:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0507/232937.218:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0508/081155.066:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0508/090248.788:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0508/135748.691:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0508/183931.237:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0508/185031.382:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0508/185036.198:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0508/185036.387:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0508/185041.201:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0508/185041.392:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0508/185042.916:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0508/185046.213:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0508/185145.929:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0508/185150.938:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0508/185152.629:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0508/194318.606:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0508/195844.407:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0508/220539.566:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0508/221637.949:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0508/231308.458:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0509/162641.408:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0509/163931.888:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0509/221726.266:INFO:CONSOLE(18)] "%cThis is a browser feature intended for developers. Do not paste any code here given to you by someone else. It may compromise your account or have other negative side effects.", source: https://www.hackintoshzone.com/ipscdn/ads/javascript_global/root_library.js.d9f217736e855245c8b89788b6a0db91.js?v=cbfa739baa (18)
+[0509/221726.800:INFO:CONSOLE(5389)] "null", source: https://www.hackintoshzone.com/files/ (5389)
+[0509/221728.302:INFO:CONSOLE(1)] "Uncaught ReferenceError: osdlfm is not defined", source: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9242567382580086&output=html&h=250&twa=1&slotname=8662127272&adk=2321132137&adf=2085179950&w=142&fwrn=4&fwrnh=100&lmt=1589087847&psa=0&guci=2.2.0.0.2.2.0.0&format=142x250&url=https%3A%2F%2Fwww.hackintoshzone.com%2Ffiles%2F&flash=0&fwr=0&rh=250&rw=142&wgl=1&adsid=ChEI8KnZ9QUQ7NP_ouv80YT5ARIvAMmoHu_5HegZszMO-GQRtI7tHhXRtVi8OUvgIDau7nAewn7BVsWu7kCk38ICBc8&dt=1589087847571&bpp=3&bdt=2297&idt=275&shv=r20200506&cbv=r20190131&ptt=9&saldr=aa&abxe=1&cookie=ID%3D80c86bf8c2efd4ba%3AT%3D1589062647%3AS%3DALNI_Maev0DntNCifFSZ233DtnAq7v-3mg&crv=1&prev_fmts=160x600%2C0x0%2C728x90%2C728x90%2C142x250&nras=1&correlator=7836315887057&frm=20&pv=1&ga_vid=288940346.1589087847&ga_sid=1589087848&ga_hid=1338638013&ga_fc=0&iag=0&icsg=37580942346&dssz=43&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=1080&u_w=1920&u_ah=1050&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=954&ady=1911&biw=1130&bih=674&scr_x=0&scr_y=0&eid=21066085%2C44716867%2C44718965%2C182982000%2C182982200&oid=3&pvsid=249660738600952&pem=391&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=896&brdim=150%2C240%2C150%2C240%2C1920%2C0%2C1147%2C691%2C1147%2C691&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=9232&bc=29&jar=2020-05-09-22&ifi=5&uci=a!5&btvi=2&xpc=S7UxTdD0kb&p=https%3A//www.hackintoshzone.com&dtd=279 (1)
+[0509/221728.314:INFO:CONSOLE(1)] "Uncaught ReferenceError: osdlfm is not defined", source: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9242567382580086&output=html&h=250&twa=1&slotname=3390399924&adk=3497334048&adf=3895987517&w=142&fwrn=4&fwrnh=100&lmt=1589087847&psa=0&guci=2.2.0.0.2.2.0.0&format=142x250&url=https%3A%2F%2Fwww.hackintoshzone.com%2Ffiles%2F&flash=0&fwr=0&rh=250&rw=142&wgl=1&adsid=ChEI8KnZ9QUQ7NP_ouv80YT5ARIvAMmoHu_5HegZszMO-GQRtI7tHhXRtVi8OUvgIDau7nAewn7BVsWu7kCk38ICBc8&dt=1589087847566&bpp=4&bdt=2293&idt=247&shv=r20200506&cbv=r20190131&ptt=9&saldr=aa&abxe=1&cookie=ID%3D80c86bf8c2efd4ba%3AT%3D1589062647%3AS%3DALNI_Maev0DntNCifFSZ233DtnAq7v-3mg&crv=1&prev_fmts=160x600%2C0x0%2C728x90%2C728x90&nras=1&correlator=7836315887057&frm=20&pv=1&ga_vid=288940346.1589087847&ga_sid=1589087848&ga_hid=1338638013&ga_fc=0&iag=0&icsg=9395235586&dssz=42&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=1080&u_w=1920&u_ah=1050&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=954&ady=322&biw=1130&bih=674&scr_x=0&scr_y=0&eid=21066085%2C44716867%2C44718965%2C182982000%2C182982200&oid=3&pvsid=249660738600952&pem=391&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=896&brdim=150%2C240%2C150%2C240%2C1920%2C0%2C1147%2C691%2C1147%2C691&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=9232&bc=29&jar=2020-05-09-22&ifi=4&uci=a!4&xpc=DbvxHwmWrH&p=https%3A//www.hackintoshzone.com&dtd=250 (1)
+[0509/221728.460:INFO:CONSOLE(1)] "Uncaught ReferenceError: osdlfm is not defined", source: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9242567382580086&output=html&h=90&slotname=9654475679&adk=1425447746&adf=2728465933&w=728&lmt=1589087847&psa=0&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fwww.hackintoshzone.com%2Ffiles%2F&flash=0&wgl=1&adsid=ChEI8KnZ9QUQ7NP_ouv80YT5ARIvAMmoHu_5HegZszMO-GQRtI7tHhXRtVi8OUvgIDau7nAewn7BVsWu7kCk38ICBc8&dt=1589087847564&bpp=2&bdt=2291&idt=215&shv=r20200506&cbv=r20190131&ptt=9&saldr=aa&abxe=1&cookie=ID%3D80c86bf8c2efd4ba%3AT%3D1589062647%3AS%3DALNI_Maev0DntNCifFSZ233DtnAq7v-3mg&crv=1&prev_fmts=160x600%2C0x0%2C728x90&nras=1&correlator=7836315887057&frm=20&pv=1&ga_vid=288940346.1589087847&ga_sid=1589087848&ga_hid=1338638013&ga_fc=0&iag=0&icsg=9395235586&dssz=42&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=1080&u_w=1920&u_ah=1050&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=245&ady=724&biw=1130&bih=674&scr_x=0&scr_y=0&eid=21066085%2C44716867%2C44718965%2C182982000%2C182982200&oid=3&pvsid=249660738600952&pem=391&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=896&brdim=150%2C240%2C150%2C240%2C1920%2C0%2C1147%2C691%2C1147%2C691&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=9232&bc=29&jar=2020-05-09-22&ifi=3&uci=a!3&btvi=1&xpc=Qy3UO246HG&p=https%3A//www.hackintoshzone.com&dtd=218 (1)
+[0509/221728.468:INFO:CONSOLE(0)] "Refused to execute script from 'https://t.myvisualiq.net/impression_pixel?r=3760463362&et=i&ago=212&ao=546&aca=24033377&si=1781800&ci=131605295&pi=272803170&ad=467353999&advt=9943198&chnl=-7&vndr=115&sz=6586&u=pt=i' because its MIME type ('image/gif') is not executable.", source: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9242567382580086&output=html&h=90&slotname=7896269270&adk=566740364&adf=936949475&w=728&lmt=1589087847&psa=0&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fwww.hackintoshzone.com%2Ffiles%2F&flash=0&wgl=1&adsid=ChEI8KnZ9QUQ7NP_ouv80YT5ARIvAMmoHu_5HegZszMO-GQRtI7tHhXRtVi8OUvgIDau7nAewn7BVsWu7kCk38ICBc8&dt=1589087847562&bpp=1&bdt=2288&idt=186&shv=r20200506&cbv=r20190131&ptt=9&saldr=aa&abxe=1&cookie=ID%3D80c86bf8c2efd4ba%3AT%3D1589062647%3AS%3DALNI_Maev0DntNCifFSZ233DtnAq7v-3mg&crv=1&prev_fmts=160x600%2C0x0&nras=1&correlator=7836315887057&frm=20&pv=1&ga_vid=288940346.1589087847&ga_sid=1589087848&ga_hid=1338638013&ga_fc=0&iag=0&icsg=9395235586&dssz=42&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=1080&u_w=1920&u_ah=1050&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=346&ady=177&biw=1130&bih=674&scr_x=0&scr_y=0&eid=21066085%2C44716867%2C44718965%2C182982000%2C182982200&oid=3&pvsid=249660738600952&pem=391&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=896&brdim=150%2C240%2C150%2C240%2C1920%2C0%2C1147%2C691%2C1147%2C691&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=9232&bc=29&jar=2020-05-09-22&ifi=2&uci=a!2&xpc=BZ6XX7ltps&p=https%3A//www.hackintoshzone.com&dtd=188 (0)
+[0509/221728.502:ERROR:render_process_host_impl.cc(2077)] Request for unknown Channel-associated interface: device::mojom::ScreenOrientationListener
+[0509/221728.522:INFO:CONSOLE(1)] "Uncaught ReferenceError: osdlfm is not defined", source: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9242567382580086&output=html&h=90&slotname=7896269270&adk=566740364&adf=936949475&w=728&lmt=1589087847&psa=0&guci=2.2.0.0.2.2.0.0&format=728x90&url=https%3A%2F%2Fwww.hackintoshzone.com%2Ffiles%2F&flash=0&wgl=1&adsid=ChEI8KnZ9QUQ7NP_ouv80YT5ARIvAMmoHu_5HegZszMO-GQRtI7tHhXRtVi8OUvgIDau7nAewn7BVsWu7kCk38ICBc8&dt=1589087847562&bpp=1&bdt=2288&idt=186&shv=r20200506&cbv=r20190131&ptt=9&saldr=aa&abxe=1&cookie=ID%3D80c86bf8c2efd4ba%3AT%3D1589062647%3AS%3DALNI_Maev0DntNCifFSZ233DtnAq7v-3mg&crv=1&prev_fmts=160x600%2C0x0&nras=1&correlator=7836315887057&frm=20&pv=1&ga_vid=288940346.1589087847&ga_sid=1589087848&ga_hid=1338638013&ga_fc=0&iag=0&icsg=9395235586&dssz=42&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=1080&u_w=1920&u_ah=1050&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=346&ady=177&biw=1130&bih=674&scr_x=0&scr_y=0&eid=21066085%2C44716867%2C44718965%2C182982000%2C182982200&oid=3&pvsid=249660738600952&pem=391&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=896&brdim=150%2C240%2C150%2C240%2C1920%2C0%2C1147%2C691%2C1147%2C691&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=9232&bc=29&jar=2020-05-09-22&ifi=2&uci=a!2&xpc=BZ6XX7ltps&p=https%3A//www.hackintoshzone.com&dtd=188 (1)
+[0509/221728.746:INFO:CONSOLE(0)] "Refused to execute script from 'https://t.myvisualiq.net/impression_pixel?r=753663391&et=i&ago=212&ao=546&aca=24033377&si=1781800&ci=131497782&pi=272801622&ad=467353915&advt=9943198&chnl=-7&vndr=115&sz=6586&u=pt=i' because its MIME type ('image/gif') is not executable.", source: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9242567382580086&output=html&h=600&slotname=4862387987&adk=1738565820&adf=2996651360&w=160&lmt=1589087847&psa=0&guci=2.2.0.0.2.2.0.0&format=160x600&url=https%3A%2F%2Fwww.hackintoshzone.com%2Ffiles%2F&flash=0&wgl=1&adsid=ChEI8KnZ9QUQ7NP_ouv80YT5ARIvAMmoHu_5HegZszMO-GQRtI7tHhXRtVi8OUvgIDau7nAewn7BVsWu7kCk38ICBc8&dt=1589087847545&bpp=5&bdt=2272&idt=140&shv=r20200506&cbv=r20190131&ptt=9&saldr=aa&abxe=1&correlator=7836315887057&frm=20&pv=2&ga_vid=288940346.1589087847&ga_sid=1589087848&ga_hid=1338638013&ga_fc=0&iag=0&icsg=805300994&dssz=41&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=1080&u_w=1920&u_ah=1050&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=50&ady=428&biw=1130&bih=674&scr_x=0&scr_y=0&eid=21066085%2C44716867%2C44718965%2C182982000%2C182982200&oid=3&pvsid=249660738600952&pem=391&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=896&brdim=150%2C240%2C150%2C240%2C1920%2C0%2C1147%2C691%2C1147%2C691&vis=1&rsz=%7Cd%7CeE%7Cp&abl=XS&pfx=0&fu=9232&bc=29&jar=2020-05-09-22&ifi=1&uci=a!1&xpc=aHonjrs0dI&p=https%3A//www.hackintoshzone.com&dtd=156 (0)
+[0509/221728.969:INFO:CONSOLE(619)] "frame1 off", source: https://cdn.flashtalking.com/90103/2225756/js/scripts.js (619)
+[0509/221728.970:INFO:CONSOLE(640)] "frame 5 off", source: https://cdn.flashtalking.com/90103/2225756/js/scripts.js (640)
+[0509/221729.252:INFO:CONSOLE(874)] "https://fdz.flashtalking.com/services/bestbuy/FBI-2381/digitalinsert.php?c=computing&callback=[%CALLBACK%]", source: https://cdn.flashtalking.com/90103/2225756/js/scripts.js (874)
+[0509/221729.256:INFO:CONSOLE(896)] "skuString on impression is :: 6203016||6219205||6362813", source: https://cdn.flashtalking.com/90103/2225756/js/scripts.js (896)
+[0509/221729.697:INFO:CONSOLE(1)] "Uncaught ReferenceError: osdlfm is not defined", source: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-9242567382580086&output=html&h=600&slotname=4862387987&adk=1738565820&adf=2996651360&w=160&lmt=1589087847&psa=0&guci=2.2.0.0.2.2.0.0&format=160x600&url=https%3A%2F%2Fwww.hackintoshzone.com%2Ffiles%2F&flash=0&wgl=1&adsid=ChEI8KnZ9QUQ7NP_ouv80YT5ARIvAMmoHu_5HegZszMO-GQRtI7tHhXRtVi8OUvgIDau7nAewn7BVsWu7kCk38ICBc8&dt=1589087847545&bpp=5&bdt=2272&idt=140&shv=r20200506&cbv=r20190131&ptt=9&saldr=aa&abxe=1&correlator=7836315887057&frm=20&pv=2&ga_vid=288940346.1589087847&ga_sid=1589087848&ga_hid=1338638013&ga_fc=0&iag=0&icsg=805300994&dssz=41&mdo=0&mso=0&u_tz=-420&u_his=3&u_java=0&u_h=1080&u_w=1920&u_ah=1050&u_aw=1920&u_cd=24&u_nplug=2&u_nmime=2&adx=50&ady=428&biw=1130&bih=674&scr_x=0&scr_y=0&eid=21066085%2C44716867%2C44718965%2C182982000%2C182982200&oid=3&pvsid=249660738600952&pem=391&ref=https%3A%2F%2Fwww.google.com%2F&rx=0&eae=0&fc=896&brdim=150%2C240%2C150%2C240%2C1920%2C0%2C1147%2C691%2C1147%2C691&vis=1&rsz=%7Cd%7CeE%7Cp&abl=XS&pfx=0&fu=9232&bc=29&jar=2020-05-09-22&ifi=1&uci=a!1&xpc=aHonjrs0dI&p=https%3A//www.hackintoshzone.com&dtd=156 (1)
+[0509/221730.533:INFO:CONSOLE(615)] "frame1 off", source: https://cdn.flashtalking.com/90103/2225754/js/scripts.js (615)
+[0509/221730.533:INFO:CONSOLE(636)] "frame 5 off", source: https://cdn.flashtalking.com/90103/2225754/js/scripts.js (636)
+[0509/221730.621:INFO:CONSOLE(870)] "https://fdz.flashtalking.com/services/bestbuy/FBI-2381/digitalinsert.php?c=computing&callback=[%CALLBACK%]", source: https://cdn.flashtalking.com/90103/2225754/js/scripts.js (870)
+[0509/221730.626:INFO:CONSOLE(892)] "skuString on impression is :: 6203016||6362813||6219205", source: https://cdn.flashtalking.com/90103/2225754/js/scripts.js (892)
+[0510/012544.067:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0510/165957.134:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0511/120635.440:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0511/194425.029:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0511/194918.687:INFO:CONSOLE(18)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=y6120QOlsfU (18)
+[0511/194919.024:INFO:CONSOLE(33)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=y6120QOlsfU (33)
+[0511/194919.024:INFO:CONSOLE(34)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=y6120QOlsfU (34)
+[0511/194919.228:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?passive=true&service=youtube&hl=en&uilel=3&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26next%3D%252Fsignin_passive%26feature%3Dpassive%26hl%3Den' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/watch?v=y6120QOlsfU (0)
+[0511/194919.235:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0511/194919.235:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0511/194919.240:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0511/194919.240:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0512/103016.171:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0512/122109.979:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0512/135212.847:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0513/083347.793:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0514/125310.440:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0515/122407.443:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0515/135110.094:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0515/135551.175:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0517/101840.943:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0517/150306.905:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0519/081558.153:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0519/180323.640:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0522/095815.072:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0522/102210.026:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0522/120321.681:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0522/223327.120:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0524/131008.862:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0524/133625.782:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0524/204336.475:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0525/093716.467:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0525/130329.190:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0525/130733.361:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0525/131815.431:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0525/163506.447:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0525/172223.746:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0525/173027.749:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0525/194500.984:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0526/090716.460:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0527/143842.736:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0527/154846.510:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0528/114348.616:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0529/092354.707:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0530/160108.194:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0531/090437.686:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0601/091245.710:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0604/112250.056:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0604/115758.375:INFO:CONSOLE(18)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (18)
+[0604/115758.705:INFO:CONSOLE(33)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (33)
+[0604/115758.705:INFO:CONSOLE(34)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (34)
+[0604/115758.915:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/ServiceLogin?passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fnext%3D%252Fsignin_passive%26action_handle_signin%3Dtrue%26hl%3Den%26app%3Ddesktop%26feature%3Dpassive&uilel=3&hl=en&service=youtube' in a frame because it set 'X-Frame-Options' to 'deny'.", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (0)
+[0604/115758.927:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0604/115758.927:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0604/115758.955:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0604/115758.955:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0604/115806.196:WARNING:htmlmediaelement.cpp(1949)] currentPlaybackPosition readyState = 4 but no webMeidaPlayer to provide currentPlaybackPosition
+[0604/115851.408:INFO:CONSOLE(18)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (18)
+[0604/115851.627:INFO:CONSOLE(33)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (33)
+[0604/115851.627:INFO:CONSOLE(34)] "<link rel=preload> must have a valid `as` value", source: https://www.youtube.com/watch?v=kJQP7kiw5Fk (34)
+[0604/115851.873:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: pkedcjkdefgpdelpbcmbmeomcjbeemfm
+[0604/115851.873:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://pkedcjkdefgpdelpbcmbmeomcjbeemfm/cast_sender.js
+[0604/115851.879:WARNING:extension_protocols.cc(448)] Failed to GetPathForExtension: enhhojjnijigcajfphajepfemndkmdlo
+[0604/115851.879:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://enhhojjnijigcajfphajepfemndkmdlo/cast_sender.js
+[0604/115928.532:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0607/204539.345:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0609/093535.653:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0609/093838.110:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0609/093843.113:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0609/093848.118:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0609/093853.122:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0609/094253.614:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0609/094558.684:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0609/132236.490:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0609/152103.474:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0609/222833.824:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0614/213716.720:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0614/230149.822:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0616/091928.666:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0616/145035.651:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0617/123447.477:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0617/123449.126:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0618/101157.352:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0618/125421.116:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0620/131152.749:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0620/133318.296:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0620/150506.660:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0621/134835.315:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0621/210545.181:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0621/212827.818:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0622/135421.057:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0623/174926.972:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0630/205132.266:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0630/224240.135:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0630/235257.976:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0706/161200.967:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0706/163236.245:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0706/164301.585:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0706/164636.098:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0804/001950.874:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0809/125333.526:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0813/162027.569:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0813/170348.408:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0814/122339.369:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0814/122745.411:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0814/123048.770:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0814/123354.289:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0815/143005.233:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0818/110125.585:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0819/081614.099:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0820/082136.257:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0820/084828.298:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0820/085933.705:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0820/090253.550:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0820/091159.652:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0821/081607.663:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0821/154338.291:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0824/143001.399:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0826/095122.819:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0827/084207.896:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0828/081834.390:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0828/185404.680:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0829/180405.440:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0829/230537.044:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0829/231751.841:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0829/232656.645:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0829/232902.931:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0830/230429.278:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0831/095948.421:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0901/110646.291:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0902/111119.350:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0902/223535.972:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0903/100600.081:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0904/084923.991:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0924/102336.806:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0925/100306.458:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0926/091713.161:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0927/084943.880:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0927/223636.990:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0928/082300.339:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0928/153501.987:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0928/182002.422:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0929/012536.835:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0929/012619.407:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0929/012857.108:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0929/012958.867:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0929/040502.955:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1002/010805.065:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1014/210413.380:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1017/150139.044:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1021/184341.760:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1110/030934.726:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0119/130842.366:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0224/215026.136:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0418/225605.238:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0427/114729.489:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0524/135118.959:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0602/195945.628:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0817/173609.931:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0922/221206.360:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1001/110741.358:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[1010/175730.797:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0114/160510.154:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0202/152955.487:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0207/133615.806:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0302/122054.338:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0314/133230.022:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0314/133354.514:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0427/202717.909:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0427/204004.686:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0428/222743.835:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0508/134659.362:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0511/172643.922:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+[0515/193851.578:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain

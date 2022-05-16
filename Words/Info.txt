@@ -1,0 +1,16 @@
+Calculator:  .cal   
+Web Settings:  .web/.web close
+Link Settings:  .web add/.web all/.web none
+System App:  .system
+Program Settings:  .pro/.add pro
+Clock Settings:  .clock on/.clock off (right click for other options like cpu or ram)
+Music:  .music
+Converter:  .con
+Code:   .code
+Resizer:   .resizer
+Computer Settings:  .shutdown/.restart
+Notes:   .notes
+Settings:   .settings (right click for info)
+Vocab Program:   .vocab
+Robot Coder:   .coder
+Passwords:   .pass
